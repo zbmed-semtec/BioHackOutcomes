@@ -1,0 +1,17 @@
+yocra3/epimutacions
+collaborativebioinformatics/GrOMOP
+matdillen/33_molseq
+NuriaQueralt/covid19-epidemiology-ontology
+babelomics/MechACov
+elixir-luxembourg/BH2020-galaxy-dpmaps
+cbg-ethz/V-pipe
+biohackrxiv/bhxiv-metadata
+danielabutano/intermine-R2RML-mapping
+JervenBolleman/rs-handlegraph-ffi
+UniBioDicts/vsm-pubdictionaries
+elixir-europe/BioHackathon-projects-2020
+panoptes-organization/panoptes
+kg-subsetting/biohackathon2020
+zbmed/BioHackOutcomes
+ds-wizard/h2020-dmp-template
+alan-turing-institute/the-turing-way
