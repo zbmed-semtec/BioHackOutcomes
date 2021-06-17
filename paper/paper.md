@@ -119,16 +119,13 @@ In both 2019 (shown in Figure 1) and 2020, around 65% of survey respondents esti
 For the year 2019, labour costs (effort) during the event were estimated at approximately 178k euros, based on the number of projects (33 projects), number of participants per project (on average 4.5 participants per project), event duration (5 days), and the [average hourly labour cost in Europe](https://ec.europa.eu/eurostat/statistics-explained/index.php/Wages_and_labour_costs) [@noauthor_wages_nodate]. Based on survey responses and following a similar approach, labour costs associated with each counterfactual category (1 week, 1 month, 2 months, 6 months, 1 year) amounted to just over 1 million euros in additional labour costs, leading to the event having an acceleration effect of 5.6 (Figure 1). Even when venue/accommodation/catering costs are accounted for, along with an estimated one full time equivalent per year to prepare and run the event (i.e., altogether a cost of 341k euros to prepare and run the event), the BioHackathon Europe accelerated progress toward outcomes by a factor of 3. Time- and hence cost-savings linked to the event were hence significant. 
 
 
-![alt_text](./effortBHEu19.png "Effect BioHackathon Europe 2019")
+![Acceleration effect of the BioHackathon Europe in 2019, as perceived by participants (2018 and 2020 results are similar). The effect of the event was to accelerate overall progress towards outcomes by a factor of 3 to 5.6 compared to the counterfactual (i.e., not holding the event)](./effortBHEu19.png)
 
-**Figure 1. Acceleration effect of the BioHackathon Europe in 2019, as perceived by participants (2018 and 2020 results are similar). The effect of the event was to accelerate overall progress towards outcomes by a factor of 3 to 5.6 compared to the counterfactual (i.e., not holding the event).**
 
 In both 2019 and 2020 (shown in Figure 2), good insights were gained into personal and/or professional outcomes that participants felt were enabled through their participation in the events. Results were broadly similar across the two years when the question was asked, which is interesting in itself since 2020 was in virtual format. Respondents overwhelmingly agreed that they had improved their capacity to work as a team, increased their understanding of other technical fields and specialties, as well as usefully broadened their professional networks (though not in terms of career prospects with recruiters in mind). Most also agreed that they had improved their technical skills and/or knowledge, and that they would use these within the next 6 months, thereby giving insights into the longer-term outcomes of the event. One area where the events did not appear to have an effect related to the understanding of other sectors and their needs (e.g., industry if the respondent was an academic) - this was likely related to the small number of hacking projects submitted by private sector participants. One notable difference between the 2019 and 2020 results related to the understanding of other cultures, with 53% (strongly) agreeing that the 2019 physical format event helped them, whilst this was only 34% in 2020 (virtual format). 
 
 
-![alt_text](./personalAndProfessionalOutcomesBHEu2020.png "Personal and professional outcomes BioHackathon Europe 2020")
-
-**Figure 2. Personal and professional outcomes reported by participants of the BioHackathon Europe in 2020.**
+![Personal and professional outcomes reported by participants of the BioHackathon Europe in 2020](./personalAndProfessionalOutcomesBHEu2020.png)
 
 
 ## Publication-based measures
