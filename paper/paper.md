@@ -141,7 +141,7 @@ All publications corresponding to preprints have been published at BioHackrXiv, 
 **Table 2. Publications, Peer reviewed or not (i.e., preprints) have arisen from and/or can be linked to the BioHackathon Europe events. **
 
 | Publication | Type | Linked to | Comments |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+|--- |--- |--- |--- |
 | Garcia et al., 2020, Ten simple rules to run a successful BioHackathon, Plos Computational Biology [DOI:10.1371/journal.pcbi.1007808](https://doi.org/10.1371/journal.pcbi.1007808) [@10.1371/journal.pcbi.1007808] | Peer reviewed | Several BioHackathon Europe events | Acknowledges participants and organizing committee |
 | Gray et al., 2021, Exploiting Bioschemas Markup to Populate IDPcentral. [DOI:10.37044/osf.io/v3jct](https://doi.org/10.37044/osf.io/v3jct) [@gray_papadopoulos_micetic_hatos_2021] | Preprint | BioHackathon Europe 2020 | Thanks organizers and participants. "BioHackathon Europe 2020" series of BioHackrXiv |
 | Labra-Gayo et al., 2021, Knowledge graphs and wikidata subsetting, BioHackrXiv. [DOI:10.37044/osf.io/wu9et](https://di.org/10.37044/osf.io/wu9et) [@labra-gayo_knowledge_2021] | Preprint | BioHackathon Europe 2020 | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
