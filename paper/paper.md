@@ -140,20 +140,24 @@ All publications corresponding to preprints have been published at BioHackrXiv, 
 
 **Table 2. Publications, Peer reviewed or not (i.e., preprints) have arisen from and/or can be linked to the BioHackathon Europe events. **
 
-| Publication | Type | Linked to | Comments |
-|--- |--- |--- |--- |
-| Garcia et al., 2020, Ten simple rules to run a successful BioHackathon, Plos Computational Biology [DOI:10.1371/journal.pcbi.1007808](https://doi.org/10.1371/journal.pcbi.1007808) [@10.1371/journal.pcbi.1007808] | Peer reviewed | Several BioHackathon Europe events | Acknowledges participants and organizing committee |
-| Gray et al., 2021, Exploiting Bioschemas Markup to Populate IDPcentral. [DOI:10.37044/osf.io/v3jct](https://doi.org/10.37044/osf.io/v3jct) [@gray_papadopoulos_micetic_hatos_2021] | Preprint | BioHackathon Europe 2020 | Thanks organizers and participants. "BioHackathon Europe 2020" series of BioHackrXiv |
-| Labra-Gayo et al., 2021, Knowledge graphs and wikidata subsetting, BioHackrXiv. [DOI:10.37044/osf.io/wu9et](https://di.org/10.37044/osf.io/wu9et) [@labra-gayo_knowledge_2021] | Preprint | BioHackathon Europe 2020 | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
-| Savojardo et al., 2021, SB4ER: an ELIXIR Service Bundle for EpidemicResponse, BioHackrXiv. [DOI:10.37044/osf.io/b34vm](https://doi.org/10.37044/osf.io/b34vm) [@savojardo_casadio_2021] | Preprint | BioHackathon Europe 2020 | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
-| Groom et al., 2021, Connecting molecular sequences to their voucher specimens, BioHackrXiv. [DOI:10.37044/osf.io/93qf4](https://doi.org/10.37044/osf.io/93qf4) [@groom_wong_2021] | Preprint | BioHackathon Europe 2020 | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
-| Zobolas et al., 2020, Linking PubDictionaries with UniBioDicts to supportCommunity Curation, BioHackrXiv. [DOI:10.37044/osf.io/gzfa8](https://doi.org/10.37044/osf.io/gzfa8) [@zobolas_kim_kuiper_vercruysse_2020] | Preprint | BioHackathon Europe 2020 | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
-| Suchánek, 2020, Progress on Data Stewardship Wizard during BioHackathon Europe 2020, BioHackrXiv. [DOI:10.37044/osf.io/9mnkb](https://doi.org/10.37044/osf.io/9mnkb) [@suchanek_hooft_bourhy_2020] | Preprint | BioHackathon Europe 2020 | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
-| Bono and Kasukawa, 2020, TogoEx: the integration of gene expression data, BioHackrXiv [DOI:10.37044/osf.io/esrc9](https://doi.org/10.37044/osf.io/esrc9) [@bono_kasukawa_2020] | Preprint | BioHackathon Europe 2019 | Acknowledges ELIXIR as founder of the event. Included in the "BioHackathon Europe 2019" series of BioHackrXiv |
-| Gawron et al., 2020, Disease and pathway maps for Rare Diseases, BioHackrXiv. [DOI:10.37044/osf.io/gmbjv](https://doi.org/10.37044/osf.io/gmbjv) [@gawron_ostaszewski_2020] | Preprint | BioHackathon Europe 2019 | Acknowledges ELIXIR as founder of the event. Included in the "BioHackathon Europe 2019" series of BioHackrXiv |
-| Garcia et al., 2019, Biotea-2-Bioschemas, facilitating structured markup for semantically annotated scholarly publications. Genomics and Informatics. [DOI:10.5808/gi.2019.17.2.e14](https://doi.org/10.5808/gi.2019.17.2.e14) [@doi:10.5808/GI.2019.17.2.e14] | Peer reviewed | BioHackathon Europe 2018 | Acknowledges support |
-| Garcia et al., 2020, Ten simple rules for making training materials FAIR, PLOS Computational Biology [DOI:10.1371/journal.pcbi.1007854](https://doi.org/10.1371/journal.pcbi.1007854) [@10.1371/journal.pcbi.1007854] | Peer reviewed | BioHackathon Europe 2018 | Acknowledges the event |
-| Bresso et al., 2021, Investigating ADR mechanisms with Explainable AI: a feasibility study with knowledge graph mining. [DOI:10.1186/s12911-021-01518-6](https://doi.org/10.1186/s12911-021-01518-6) [@bresso_investigating_2021] | Peer reviewed | BioHackathon Europe 2018 | Acknowledges participants |
+| Publication | Type | Comments |
+|--- |--- |--- |
+| **Several BioHackathon Europe events** |
+| Garcia et al., 2020, Ten simple rules to run a successful BioHackathon, Plos Computational Biology [DOI:10.1371/journal.pcbi.1007808](https://doi.org/10.1371/journal.pcbi.1007808) [@10.1371/journal.pcbi.1007808] | Peer reviewed | Acknowledges participants and organizing committee |
+| **BioHackathon Europe 2020** |
+| Gray et al., 2021, Exploiting Bioschemas Markup to Populate IDPcentral. [DOI:10.37044/osf.io/v3jct](https://doi.org/10.37044/osf.io/v3jct) [@gray_papadopoulos_micetic_hatos_2021] | Preprint | Thanks organizers and participants. "BioHackathon Europe 2020" series of BioHackrXiv |
+| Labra-Gayo et al., 2021, Knowledge graphs and wikidata subsetting, BioHackrXiv. [DOI:10.37044/osf.io/wu9et](https://di.org/10.37044/osf.io/wu9et) [@labra-gayo_knowledge_2021] | Preprint | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
+| Savojardo et al., 2021, SB4ER: an ELIXIR Service Bundle for EpidemicResponse, BioHackrXiv. [DOI:10.37044/osf.io/b34vm](https://doi.org/10.37044/osf.io/b34vm) [@savojardo_casadio_2021] | Preprint | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
+| Groom et al., 2021, Connecting molecular sequences to their voucher specimens, BioHackrXiv. [DOI:10.37044/osf.io/93qf4](https://doi.org/10.37044/osf.io/93qf4) [@groom_wong_2021] | Preprint | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
+| Zobolas et al., 2020, Linking PubDictionaries with UniBioDicts to supportCommunity Curation, BioHackrXiv. [DOI:10.37044/osf.io/gzfa8](https://doi.org/10.37044/osf.io/gzfa8) [@zobolas_kim_kuiper_vercruysse_2020] | Preprint | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
+| Suchánek, 2020, Progress on Data Stewardship Wizard during BioHackathon Europe 2020, BioHackrXiv. [DOI:10.37044/osf.io/9mnkb](https://doi.org/10.37044/osf.io/9mnkb) [@suchanek_hooft_bourhy_2020] | Preprint | Thanks organizers. Included in the "BioHackathon Europe 2020" series of BioHackrXiv |
+| **BioHackathon Europe 2019** |
+| Bono and Kasukawa, 2020, TogoEx: the integration of gene expression data, BioHackrXiv [DOI:10.37044/osf.io/esrc9](https://doi.org/10.37044/osf.io/esrc9) [@bono_kasukawa_2020] | Preprint | Acknowledges ELIXIR as founder of the event. Included in the "BioHackathon Europe 2019" series of BioHackrXiv |
+| Gawron et al., 2020, Disease and pathway maps for Rare Diseases, BioHackrXiv. [DOI:10.37044/osf.io/gmbjv](https://doi.org/10.37044/osf.io/gmbjv) [@gawron_ostaszewski_2020] | Preprint | Acknowledges ELIXIR as founder of the event. Included in the "BioHackathon Europe 2019" series of BioHackrXiv |
+| **BioHackathon Europe 2018** |
+| Garcia et al., 2019, Biotea-2-Bioschemas, facilitating structured markup for semantically annotated scholarly publications. Genomics and Informatics. [DOI:10.5808/gi.2019.17.2.e14](https://doi.org/10.5808/gi.2019.17.2.e14) [@doi:10.5808/GI.2019.17.2.e14] | Peer reviewed | Acknowledges support |
+| Garcia et al., 2020, Ten simple rules for making training materials FAIR, PLOS Computational Biology [DOI:10.1371/journal.pcbi.1007854](https://doi.org/10.1371/journal.pcbi.1007854) [@10.1371/journal.pcbi.1007854] | Peer reviewed | Acknowledges the event |
+| Bresso et al., 2021, Investigating ADR mechanisms with Explainable AI: a feasibility study with knowledge graph mining. [DOI:10.1186/s12911-021-01518-6](https://doi.org/10.1186/s12911-021-01518-6) [@bresso_investigating_2021] | Peer reviewed | Acknowledges participants |
 
 
 ## GitHub-based measures
