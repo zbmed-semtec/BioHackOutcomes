@@ -170,24 +170,24 @@ From the 17 analyzed repositories (Table 3), twelve seem to have been created fo
 
 |Repository|License|Active days before event|Average commits before event|Average commits during  event|
 |--- |--- |--- |--- |--- |
-|cbg-ethz/ V-pipe|Apache License|1309|0,13|0,00|
-|ds-wizard/ h2020-dmp-template|Apache License|-1|0,00|0,40|
-|zbmed/ BioHackOutcomes|Apache License|5|0,20|2,60|
-|biohackrxiv/ bhxiv-metadata|GNU AFFERO GENERAL PUBLIC LICENSE|-2|0,00|2,00|
-|babelomics/ MechACov|GNU GENERAL PUBLIC LICENSE|26|0,12|1,20|
-|elixir-luxembourg/ BH2020-galaxy-dpmaps|GNU GENERAL PUBLIC LICENSE|0|0,00|4,40|
-|danielabutano/ intermine-R2RML-mapping|GNU LESSER GENERAL PUBLIC LICENSE|7|0,71|8,60|
+|cbg-ethz/ V-pipe|Apache License|1309|0.13|0.00|
+|ds-wizard/ h2020-dmp-template|Apache License|-1|0.00|0.40|
+|zbmed/ BioHackOutcomes|Apache License|5|0.20|2.60|
+|biohackrxiv/ bhxiv-metadata|GNU AFFERO GENERAL PUBLIC LICENSE|-2|0.00|2.00|
+|babelomics/ MechACov|GNU GENERAL PUBLIC LICENSE|26|0.12|1.20|
+|elixir-luxembourg/ BH2020-galaxy-dpmaps|GNU GENERAL PUBLIC LICENSE|0|0.00|4.40|
+|danielabutano/ intermine-R2RML-mapping|GNU LESSER GENERAL PUBLIC LICENSE|7|0.71|8.60|
 |collaborativebioinformatics/ | | | | |
-| GrOMOP|MIT License|0|0,00|11,20|
-|JervenBolleman/ rs-handlegraph-ffi|MIT License|-2|0,00|2,40|
-|kg-subsetting/ biohackathon2020|MIT License|0|0,00|13,40|
-|panoptes-organization/ panoptes|MIT License|364|0,13|2,40|
-|elixir-europe/ BioHackathon-projects-2020||140|0,64|29,40|
-|matdillen/ 33_molseq||-1|0,00|7,60|
-|NuriaQueralt/ covid19-epidemiology-ontology||0|0,00|0,40|
-|UniBioDicts/ vsm-pubdictionaries||135|0,03|2,40|
-|alan-turing-institute/ the-turing-way|# LICENSE|739|7,53|15,00|
-|yocra3/ epimutacions|YEAR: 2020|13|0,54|21,00|
+| GrOMOP|MIT License|0|0.00|11.20|
+|JervenBolleman/ rs-handlegraph-ffi|MIT License|-2|0.00|2.40|
+|kg-subsetting/ biohackathon2020|MIT License|0|0.00|13.40|
+|panoptes-organization/ panoptes|MIT License|364|0.13|2.40|
+|elixir-europe/ BioHackathon-projects-2020||140|0.64|29.40|
+|matdillen/ 33_molseq||-1|0.00|7.60|
+|NuriaQueralt/ covid19-epidemiology-ontology||0|0.00|0.40|
+|UniBioDicts/ vsm-pubdictionaries||135|0.03|2.40|
+|alan-turing-institute/ the-turing-way|# LICENSE|739|7.53|15.00|
+|yocra3/ epimutacions|YEAR: 2020|13|0.54|21.00|
 
 
 We carried out a follow-up analysis on the 20th of April 2021 as shown in Table 4. After the final presentation, more repositories added the tag “biohackeu20” and were picked up by our code. We got a total of 24 projects, eight of them tagged after the final presentations. One of the new repositories, corresponding to a controlled vocabulary, had a license commonly associated to data more than to software. We also noticed that one project removed the “biohackeu20” tag. Most of the repositories kept active for about 3 months after the event but none of them presented much activity in terms of commits with one exception corresponding to the [Bioschemas website repository](https://github.com/BioSchemas/bioschemas.github.io) [@bioschemas_community_bioschemasbioschemasgithubio_2021], a very active repository supporting the web pages for the [Bioschemas project](https://bioschemas.org/) [@bioschemas_community_bioschemas_nodate, @gray_potato_2017]. This low activity, of course, could be due to a mismatch regarding active branches as, once again, we only analyzed the master branch. 
@@ -196,32 +196,32 @@ We carried out a follow-up analysis on the 20th of April 2021 as shown in Table 
 
 |Repository|License|# days before event|Average commits before event|Average commits during event|Average after event|
 |--- |--- |--- |--- |--- |--- |
-|UniBioDicts/ vsm-pubdictionaries|### GNU AFFERO GENERAL PUBLIC LICENSE|135|0,03|3,40|0,28|
-|cbg-ethz/ V-pipe|Apache License|1309|0,13|1,60|0,06|
-|ds-wizard/ h2020-dmp-template|Apache License|-1|0,00|0,40|0,02|
-|zbmed-semtec/ BioHackOutcomes|Apache License|5|0,20|3,20|0,01|
-|biohackrxiv/ bhxiv-metadata|GNU AFFERO GENERAL PUBLIC LICENSE|-2|0,00|3,80|2,67|
-|babelomics/ MechACov|GNU GENERAL PUBLIC LICENSE|26|0,12|20,60|0,20|
-|elixir-luxembourg/ BH2020-galaxy-dpmaps|GNU GENERAL PUBLIC LICENSE|0||5,80||
-|danielabutano/ intermine-R2RML-mapping|GNU LESSER GENERAL PUBLIC LICENSE|7|0,71|9,20|0,07|
+|UniBioDicts/ vsm-pubdictionaries|### GNU AFFERO GENERAL PUBLIC LICENSE|135|0.03|3.40|0.28|
+|cbg-ethz/ V-pipe|Apache License|1309|0.13|1.60|0.06|
+|ds-wizard/ h2020-dmp-template|Apache License|-1|0.00|0.40|0.02|
+|zbmed-semtec/ BioHackOutcomes|Apache License|5|0.20|3.20|0.01|
+|biohackrxiv/ bhxiv-metadata|GNU AFFERO GENERAL PUBLIC LICENSE|-2|0.00|3.80|2.67|
+|babelomics/ MechACov|GNU GENERAL PUBLIC LICENSE|26|0.12|20.60|0.20|
+|elixir-luxembourg/ BH2020-galaxy-dpmaps|GNU GENERAL PUBLIC LICENSE|0||5.80||
+|danielabutano/ intermine-R2RML-mapping|GNU LESSER GENERAL PUBLIC LICENSE|7|0.71|9.20|0.07|
 |collaborativebioinformatics/ | | || ||
-|GrOMOP|MIT License|0||19,20||
-|JervenBolleman/ rs-handlegraph-ffi|MIT License|-2|0,00|3,40|3,00|
-|kg-subsetting/ biohackathon2020|MIT License|0||15,20|0,12|
-|panoptes-organization/ panoptes|MIT License|364|0,13|1,60|0,15|
-|elixir-europe/ BioHackathon-projects-2020||140|0,64|34,60|0,48|
-|matdillen/ 33_molseq||-1|0,00|19,20|0,60|
-|NuriaQueralt/ covid19-epidemiology-ontology||0||0,40|0,43|
-|yocra3/ epimutacions|YEAR: 2020|13|0,54|24,80||
+|GrOMOP|MIT License|0||19.20||
+|JervenBolleman/ rs-handlegraph-ffi|MIT License|-2|0.00|3.40|3.00|
+|kg-subsetting/ biohackathon2020|MIT License|0||15.20|0.12|
+|panoptes-organization/ panoptes|MIT License|364|0.13|1.60|0.15|
+|elixir-europe/ BioHackathon-projects-2020||140|0.64|34.60|0.48|
+|matdillen/ 33_molseq||-1|0.00|19.20|0.60|
+|NuriaQueralt/ covid19-epidemiology-ontology||0||0.40|0.43|
+|yocra3/ epimutacions|YEAR: 2020|13|0.54|24.80||
 |Identified after final presentations||||||
-|HW-SWeL/ BMUSE|Apache License|580|0,39|1,80|0,18|
-|edamontology/ edamontology|Attribution-ShareAlike 4.0 International|2336|0,41|0,20|0,22|
-|intermine/ intermine-R2RML-mapping|GNU LESSER GENERAL PUBLIC LICENSE|-4|1,25|9,20|0,06|
-|BioSchemas/ bioschemas.github.io||1721|1,38|0,20|1,47|
-|BioSchemas/ specifications||1841|0,25|0,40|0,24|
-|bio-tools/ biotoolsConnect||1740|0,05|1,40|0,01|
-|bio-tools/ content||654|0,56|8,20|0,66|
-|ResearchObject/ ro-crate-py||385|0,71|3,00|0,60|
+|HW-SWeL/ BMUSE|Apache License|580|0.39|1.80|0.18|
+|edamontology/ edamontology|Attribution-ShareAlike 4.0 International|2336|0.41|0.20|0.22|
+|intermine/ intermine-R2RML-mapping|GNU LESSER GENERAL PUBLIC LICENSE|-4|1.25|9.20|0.06|
+|BioSchemas/ bioschemas.github.io||1721|1.38|0.20|1.47|
+|BioSchemas/ specifications||1841|0.25|0.40|0.24|
+|bio-tools/ biotoolsConnect||1740|0.05|1.40|0.01|
+|bio-tools/ content||654|0.56|8.20|0.66|
+|ResearchObject/ ro-crate-py||385|0.71|3.00|0.60|
 
 We performed an additional analysis on the follow-up data regarding the number of commits  per repository before, during and after the event, see Figure 3. Out of thirteen repositories created for the BioHackathon Europe, ten of them were very active mostly during the event but commits declined after it while the remaining three showed a good number of commits even after the event. Although all of the participant projects are of interest for the Life Sciences community and bring in advances and developments worth sharing, we want to highlight these three cases as they correspond to projects (or at least code repositories) which started during the event and grew after it, i.e., they showed some post-event continuity, a desirable, although not always possible, effect on the BioHackathon projects.These three projects correspond to (i) a Data Management Plan template part of the [Data Stewardship Wizard](https://ds-wizard.org/) [@pergl_data_2019], a well established part of the ELIXIR Europe network, (ii) [PubDictionaries](https://pubdictionaries.org/), part of the [PubAnnotation](https://pubannotation.org/) tools ecosystem [@10.1093/bioinformatics/btz227], a text mining platform for Bioinformatics offered by DBCLS, and (iii) an ontology related to COVID-19 epidemiology and monitoring. The latter started as a research project at the COVID-19 Virtual BioHackathon held in 2019 and, since then, has continued evolving. The project MolSeq exhibits more commits during the event (56.47%) but not by far regarding commits post-event (43.53%). Some other projects that bring some attention are those located at the very left of the graphic as they do not show much, or not at all, activity after the BioHackathon. Although this could indicate that the projects were not continued after the event, it is also possible that they have been moved to another GitHub project corresponding to a parent project. Finally, those repositories on the very right correspond to repositories with more than one year of creation. Although the impact of the BioHackathon might not be big on them, it is still interesting to observe how there is room at the BioHackathon for those projects to evolve as they commonly count with more resources and even with a dedicated team. This broad spectrum shows us how the BioHackathon supports a variety of projects from inceptions to well-established ones, a mix promoting the exchange of ideas across different level of expertise and fully aligned to the benefits of the BioHackathon Europe: supporting new and existing developments and resources, and promoting personal and community building.
 
@@ -246,7 +246,12 @@ An important aspect in both BioHackathons, Europe and NBDC/DBCLS, is the creatio
 
 # GitHub repositories
 
-*   [Project repository zbmed-semtec/BioHackOutcomes](https://github.com/zbmed/BioHackOutcomes)
+[Project repository zbmed-semtec/BioHackOutcomes](https://github.com/zbmed/BioHackOutcomes)
+
+Note: Data corresponding to the tables are also available in the GitHub repository in TSV format.
+
+
+
 
 # Acknowledgements
 
