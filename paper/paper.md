@@ -248,7 +248,7 @@ An important aspect in both BioHackathons, Europe and NBDC/DBCLS, is the creatio
 
 [Project repository zbmed-semtec/BioHackOutcomes](https://github.com/zbmed/BioHackOutcomes)
 
-Note: Data corresponding to the tables are also available in the GitHub repository in TSV format.
+Note: Data corresponding to the tables is also available in the GitHub repository in TSV format.
 
 
 
