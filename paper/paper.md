@@ -44,6 +44,7 @@ date: 26 July 2021
 bibliography: paper.bib
 authors_short: Castro, LJ. et al. 
 group: BioHackathon Outcomes project
+event: BioHackathon Europe 2020 Online
 ---
 
 
