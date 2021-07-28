@@ -47,7 +47,7 @@ group: BioHackathon Outcomes project
 event: BioHackathon Europe 2020 Online
 ---
 
-#### corresponding author: ljgarcia@zbmed.de
+#### corresponding author: ljgarcia\@zbmed.de
 
 
 # Abstract
