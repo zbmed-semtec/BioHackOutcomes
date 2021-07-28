@@ -142,7 +142,7 @@ All publications corresponding to preprints have been published at BioHackrXiv, 
 
 | Publication | Type | Comments |
 |--- |--- |--- |
-| **Several BioHackathon Europe events** |
+| <td colspan=3>**Several BioHackathon Europe events**</td> |
 | Garcia et al., 2020, Ten simple rules to run a successful BioHackathon, Plos Computational Biology [DOI:10.1371/journal.pcbi.1007808](https://doi.org/10.1371/journal.pcbi.1007808) [@10.1371/journal.pcbi.1007808] | Peer reviewed | Acknowledges participants and organizing committee |
 | **BioHackathon Europe 2020** |
 | Gray et al., 2021, Exploiting Bioschemas Markup to Populate IDPcentral. [DOI:10.37044/osf.io/v3jct](https://doi.org/10.37044/osf.io/v3jct) [@gray_papadopoulos_micetic_hatos_2021] | Preprint | Thanks organizers and participants. "BioHackathon Europe 2020" series of BioHackrXiv |
